@@ -1,0 +1,60 @@
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\bin\Debug\Programerzy.exe.config
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\bin\Debug\Programerzy.exe
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\bin\Debug\Programerzy.pdb
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.csprojAssemblyReference.cache
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.Properties.Resources.resources
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.csproj.GenerateResource.cache
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.csproj.CoreCompileInputs.cache
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.exe
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.pdb
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.Form1.resources
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\bin\Debug\Programerzy.exe.config
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\bin\Debug\Programerzy.exe
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\bin\Debug\Programerzy.pdb
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.Form1.resources
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.Programerzy.resources
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.Properties.Resources.resources
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.exe
+C:\Users\lukas\OneDrive\Pulpit\Programerzy\Programerzy\obj\Debug\Programerzy.pdb
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.Form2.resources
+C:\Users\Kacpi\Desktop\Programerzy\Programerzy\obj\Debug\Programerzy.Form3.resources
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\bin\Debug\Programerzy.exe.config
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\bin\Debug\Programerzy.exe
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\bin\Debug\Programerzy.pdb
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.csprojAssemblyReference.cache
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.Form1.resources
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.Form2.resources
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.Form3.resources
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.Properties.Resources.resources
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.csproj.GenerateResource.cache
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.csproj.CoreCompileInputs.cache
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.exe
+C:\Szkoła\SEMESTR 4\JĘZYKI PROGRAMOWANIA OBIEKTOWEGO\LABY\Programerzy\Programerzy\obj\Debug\Programerzy.pdb
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\bin\Debug\Programerzy.exe.config
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\bin\Debug\Programerzy.exe
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\bin\Debug\Programerzy.pdb
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.csproj.AssemblyReference.cache
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Form1.resources
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Form2.resources
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Form3.resources
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Properties.Resources.resources
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.csproj.GenerateResource.cache
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.csproj.CoreCompileInputs.cache
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.exe
+C:\Users\Kacpi\Desktop\C# or C++\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.pdb
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\bin\Debug\Programerzy.exe.config
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\bin\Debug\Programerzy.exe
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\bin\Debug\Programerzy.pdb
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.csproj.AssemblyReference.cache
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Form1.resources
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Form2.resources
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Form3.resources
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.Properties.Resources.resources
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.csproj.GenerateResource.cache
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.csproj.CoreCompileInputs.cache
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.exe
+C:\Users\Kacpi\Desktop\C# or C++\Studia\Programerzy - Projekt JPO\Programerzy\obj\Debug\Programerzy.pdb
